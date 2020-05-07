@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55c1d697-9c54-407f-a8ab-ba121bd370b2" name="Default Changelist" comment="" />
+    <list default="true" id="55c1d697-9c54-407f-a8ab-ba121bd370b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/Assignment 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini project/Mini project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/src/Exercise1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/src/Exercise1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/out/production/Assignment 4/TEST/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/out/production/Assignment 4/TEST/MyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment 5/Exercise2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment 5/Exercise2/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Teacher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +33,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Yeu7AbLvKLI6pnTmCvdIzDzU3s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,10 +48,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment 3" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -65,6 +84,11 @@
       <workItem from="1583325799035" duration="1685000" />
       <workItem from="1583327764041" duration="2532000" />
       <workItem from="1583609308590" duration="28000" />
+      <workItem from="1583917592601" duration="1193000" />
+      <workItem from="1585306261732" duration="22000" />
+      <workItem from="1585316358400" duration="29000" />
+      <workItem from="1585316543477" duration="2959000" />
+      <workItem from="1585388918501" duration="866000" />
     </task>
     <servers />
   </component>
@@ -72,6 +96,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="593" y="307" key="#Notifications" timestamp="1583919176840">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state x="593" y="307" key="#Notifications/0.0.2000.1293@0.0.2000.1293" timestamp="1583919176840" />
     <state x="771" y="451" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583319705659">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
@@ -80,30 +108,30 @@
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
     <state x="731" y="395" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2000.1293@0.0.2000.1293" timestamp="1583320074439" />
-    <state x="781" y="403" key="FileChooserDialogImpl" timestamp="1583320294518">
+    <state x="781" y="403" key="FileChooserDialogImpl" timestamp="1585316371861">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state x="781" y="403" key="FileChooserDialogImpl/0.0.2000.1293@0.0.2000.1293" timestamp="1583320294518" />
-    <state width="1957" height="216" key="GridCell.Tab.0.bottom" timestamp="1583324350768">
+    <state x="781" y="403" key="FileChooserDialogImpl/0.0.2000.1293@0.0.2000.1293" timestamp="1585316371861" />
+    <state width="1957" height="216" key="GridCell.Tab.0.bottom" timestamp="1585306283294">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1957" height="216" key="GridCell.Tab.0.bottom/0.0.2000.1293@0.0.2000.1293" timestamp="1583324350768" />
-    <state width="1957" height="216" key="GridCell.Tab.0.center" timestamp="1583324350768">
+    <state width="1957" height="216" key="GridCell.Tab.0.bottom/0.0.2000.1293@0.0.2000.1293" timestamp="1585306283294" />
+    <state width="1957" height="216" key="GridCell.Tab.0.center" timestamp="1585306283294">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1957" height="216" key="GridCell.Tab.0.center/0.0.2000.1293@0.0.2000.1293" timestamp="1583324350768" />
-    <state width="1957" height="216" key="GridCell.Tab.0.left" timestamp="1583324350768">
+    <state width="1957" height="216" key="GridCell.Tab.0.center/0.0.2000.1293@0.0.2000.1293" timestamp="1585306283294" />
+    <state width="1957" height="216" key="GridCell.Tab.0.left" timestamp="1585306283294">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1957" height="216" key="GridCell.Tab.0.left/0.0.2000.1293@0.0.2000.1293" timestamp="1583324350768" />
-    <state width="1957" height="216" key="GridCell.Tab.0.right" timestamp="1583324350768">
+    <state width="1957" height="216" key="GridCell.Tab.0.left/0.0.2000.1293@0.0.2000.1293" timestamp="1585306283294" />
+    <state width="1957" height="216" key="GridCell.Tab.0.right" timestamp="1585306283294">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1957" height="216" key="GridCell.Tab.0.right/0.0.2000.1293@0.0.2000.1293" timestamp="1583324350768" />
-    <state x="502" y="291" key="SettingsEditor" timestamp="1583319807905">
+    <state width="1957" height="216" key="GridCell.Tab.0.right/0.0.2000.1293@0.0.2000.1293" timestamp="1585306283294" />
+    <state x="502" y="291" key="SettingsEditor" timestamp="1583918144793">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state x="502" y="291" key="SettingsEditor/0.0.2000.1293@0.0.2000.1293" timestamp="1583319807905" />
+    <state x="502" y="291" key="SettingsEditor/0.0.2000.1293@0.0.2000.1293" timestamp="1583918144793" />
     <state x="450" y="268" key="new project wizard" timestamp="1583319933563">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
